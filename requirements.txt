@@ -1,5 +1,5 @@
 astroid==1.4.5
-autobahn==0.16.1
+autobahn==20.12.3
 autopep8==1.2.1
 Beaker==1.5.4
 beautifulsoup4==4.6.0
