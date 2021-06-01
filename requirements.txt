@@ -70,5 +70,5 @@ systemd-python==232
 tornado==4.4.2
 txaio==2.5.2
 Unidecode==0.4.19
-urllib3==1.15.1
+urllib3==1.26.5
 wrapt==1.10.10
