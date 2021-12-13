@@ -24,7 +24,7 @@ javapackages==4.6.0
 Jinja2==2.8
 langtable==0.0.35
 lazy-object-proxy==1.2.1
-lxml==3.7.2
+lxml==4.6.5
 Mako==1.0.3
 MarkupSafe==0.23
 ntplib==0.3.3
