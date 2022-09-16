@@ -25,7 +25,7 @@ Jinja2==2.8
 langtable==0.0.35
 lazy-object-proxy==1.2.1
 lxml==3.7.2
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==0.23
 ntplib==0.3.3
 ordered-set==2.0.0
